@@ -1,2 +1,1 @@
-# atvGithubDs2
-Atividade github
+Atividade para aprender a usar o Git
